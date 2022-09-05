@@ -1,0 +1,12 @@
+if statements
+ 
+ aligned your if statements like I did and if you forget most of the time your coding software will do it for you
+ 
+
+age = int(input("how old are you?"))
+if age >= 18:
+   print ("You are an Adult") 
+
+else:
+    print ("you are a child")
+ 

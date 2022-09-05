@@ -1,0 +1,13 @@
+Math 
+hopefully this python block of code will come in handy in the near futre
+
+#print (round(pi)) round your number to the nearest one 
+#print (math.ceil(pi)) round your number to the highest one
+#print (math.floor(pi)) round your number to the lowest number
+#print (pow(pi,2)) bring the variable to whatever power you want it to be
+#print (math.sqrt(420)) finds the square root
+#x = 1
+#y = 2
+#z = 3
+#print (max(x,y,z)) finds the max number out of all the options
+#print(min (x,y,z)) finds the lowest number out of all the options

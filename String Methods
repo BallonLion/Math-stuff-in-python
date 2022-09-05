@@ -1,0 +1,14 @@
+#String Methods
+these string methods I used a name variable so just keep that in mind
+
+
+#print (len(name)) Check how long your name variable is
+#print (name.find("B")) How to find what letter is where 
+#print (name.capitalize()) capitlize the first letter of the name variable
+#print (name.upper()) make everything upper case instead of Ballon it will be BALLON 
+#print (name.lower()) make everything lowercase
+#print (name.isdigit()) determines is the string is a digit
+#print (name.isalpha()) determines is the string is an alphabet alpha for short
+#print (name.count("l")) counts how many of one letter is in your string
+#print (name.replace("o","a")) replace a letter with another one 
+#print (name*3) repeates a name then amount of times you want it to
